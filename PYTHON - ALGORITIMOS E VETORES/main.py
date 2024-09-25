@@ -26,3 +26,35 @@ if posicao_resultado < 0:
 else:
     print(f'Elemento encontrado no indice {posicao_resultado}')
 # FIM BUSCA LINEAR
+
+
+# SELECTION SORT
+#Indice do vetor
+# 0 | 1 | 2 | 3 | 4
+# Valores armazenados
+# 5 | 2 | 4 | 6 | 1
+# Apos Selection sort
+# 1 | 2 | 4 | 5 | 6
+
+for i in range(tamanho):
+    indice_menor = i
+    for x in range(int(i + 1), tamanho):
+        if numeros[x] < numeros[indice_menor]:
+            indice_menor = x
+    temp = numeros[indice_menor]
+    numeros[indice_menor] = numeros[i]
+    numeros[i] = temp
+# FIM SELECTION SORT
+
+# BUSCA BINARIA
+# Indie do vetor
+# 1 | 2 | 4 | 5 | 6
+
+resultado = -1
+inicio = 0
+fim = tamanho-1
+meio = 0
+alvo = int(input(''))
+
+
+# FIM BUSCA BINARIA
