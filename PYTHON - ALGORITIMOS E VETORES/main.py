@@ -55,6 +55,15 @@ inicio = 0
 fim = tamanho-1
 meio = 0
 alvo = int(input(''))
+while inicio <= fim:
+    meio = int((inicio + fim) / 2)
+    if (numeros[meio] < alvo):
+        inicio = meio + 1
+    elif (numeros[meio]>alvo):
+        fim = meio - 1
+    else:
+        resultado = meio
+
 
 
 # FIM BUSCA BINARIA

@@ -1,0 +1,10 @@
+vetor = [1,10,9,8,3,2,4,6,5,7]
+for i in range(len(vetor)):
+    menor_indice = vetor[i]
+    for x in range(int(i+1), len(vetor)):
+        if vetor[x] < menor_indice:
+            menor_indice = vetor[x]
+    temp = menor_indice
+    vetor[i] = vetor[x]
+    vetor[x] = menor_indice
+print(vetor)
