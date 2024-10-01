@@ -37,7 +37,7 @@ else:
 # 1 | 2 | 4 | 5 | 6
 
 for i in range(tamanho):
-    indice_menor = i
+    indice_menor = i #primeiro indice do vetor
     for x in range(int(i + 1), tamanho):
         if numeros[x] < numeros[indice_menor]:
             indice_menor = x
