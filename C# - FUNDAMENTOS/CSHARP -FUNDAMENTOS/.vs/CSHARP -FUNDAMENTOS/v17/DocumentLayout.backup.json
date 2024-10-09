@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neto.tume\\Documents\\GitHub\\TREINAWEB-\\C# - FUNDAMENTOS\\CSHARP -FUNDAMENTOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE5AFCF-1623-4078-962F-56FE2E2F6665}|CSHARP -FUNDAMENTOS\\CSHARP -FUNDAMENTOS.csproj|c:\\users\\neto.tume\\documents\\github\\treinaweb-\\c# - fundamentos\\csharp -fundamentos\\csharp -fundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE5AFCF-1623-4078-962F-56FE2E2F6665}|CSHARP -FUNDAMENTOS\\CSHARP -FUNDAMENTOS.csproj|solutionrelative:csharp -fundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neto.tume\\Documents\\GitHub\\TREINAWEB-\\C# - FUNDAMENTOS\\CSHARP -FUNDAMENTOS\\CSHARP -FUNDAMENTOS\\Program.cs",
+              "RelativeDocumentMoniker": "CSHARP -FUNDAMENTOS\\Program.cs",
+              "ToolTip": "C:\\Users\\neto.tume\\Documents\\GitHub\\TREINAWEB-\\C# - FUNDAMENTOS\\CSHARP -FUNDAMENTOS\\CSHARP -FUNDAMENTOS\\Program.cs",
+              "RelativeToolTip": "CSHARP -FUNDAMENTOS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:40:45.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

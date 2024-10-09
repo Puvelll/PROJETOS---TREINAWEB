@@ -1,0 +1,15 @@
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\bin\Debug\net8.0\FUNDAMENTOS - 01.exe
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\bin\Debug\net8.0\FUNDAMENTOS - 01.deps.json
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\bin\Debug\net8.0\FUNDAMENTOS - 01.runtimeconfig.json
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\bin\Debug\net8.0\FUNDAMENTOS - 01.dll
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\bin\Debug\net8.0\FUNDAMENTOS - 01.pdb
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\obj\Debug\net8.0\FUNDAMENTOS - 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\obj\Debug\net8.0\FUNDAMENTOS - 01.AssemblyInfoInputs.cache
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\obj\Debug\net8.0\FUNDAMENTOS - 01.AssemblyInfo.cs
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\obj\Debug\net8.0\FUNDAMENTOS - 01.csproj.CoreCompileInputs.cache
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\obj\Debug\net8.0\FUNDAMENTOS - 01.sourcelink.json
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\obj\Debug\net8.0\FUNDAMENTOS - 01.dll
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\obj\Debug\net8.0\refint\FUNDAMENTOS - 01.dll
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\obj\Debug\net8.0\FUNDAMENTOS - 01.pdb
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\obj\Debug\net8.0\FUNDAMENTOS - 01.genruntimeconfig.cache
+C:\Users\neto.tume\Documents\GitHub\TREINAWEB-\C# - FUNDAMENTOS\FUNDAMENTOS - 01\obj\Debug\net8.0\ref\FUNDAMENTOS - 01.dll
