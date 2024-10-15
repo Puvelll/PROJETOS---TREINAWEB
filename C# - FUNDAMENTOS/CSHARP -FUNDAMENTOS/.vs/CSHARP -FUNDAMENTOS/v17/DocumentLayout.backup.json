@@ -14,20 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\neto.tume\\Documents\\GitHub\\TREINAWEB-\\C# - FUNDAMENTOS\\CSHARP -FUNDAMENTOS\\CSHARP -FUNDAMENTOS\\Program.cs",
               "RelativeDocumentMoniker": "CSHARP -FUNDAMENTOS\\Program.cs",
-              "ToolTip": "C:\\Users\\neto.tume\\Documents\\GitHub\\TREINAWEB-\\C# - FUNDAMENTOS\\CSHARP -FUNDAMENTOS\\CSHARP -FUNDAMENTOS\\Program.cs",
-              "RelativeToolTip": "CSHARP -FUNDAMENTOS\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\neto.tume\\Documents\\GitHub\\TREINAWEB-\\C# - FUNDAMENTOS\\CSHARP -FUNDAMENTOS\\CSHARP -FUNDAMENTOS\\Program.cs*",
+              "RelativeToolTip": "CSHARP -FUNDAMENTOS\\Program.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T13:40:45.773Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
